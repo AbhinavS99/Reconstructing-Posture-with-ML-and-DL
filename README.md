@@ -2,7 +2,7 @@
 
 Posture Reconstruction   |  
 :-------------------------:|
-![](Plots/posture-reconstruction.png) |
+![](Plots/posture-reconstruction.jpg) |
 
 This exploration takes a gander at different strategies for the arrangement of univariate pose reproduction information. The dataset utilized is openly accessible on Kaggle. We have attempted to change over the issue of characterizing time arrangement information into a standard order issue.
 
