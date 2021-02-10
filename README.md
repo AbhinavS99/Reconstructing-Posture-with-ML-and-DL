@@ -4,7 +4,7 @@ Posture Reconstruction   |
 :-------------------------:|
 ![](Plots/posture-reconstruction.jpg) |
 
-This research looks at various techniques for the classification of univariate posture reconstruction data. The dataset used is freely available on Kaggle. We have tried to convert the problem of classifying time series data into a standard classification problem.
+This research looks at various techniques for the classification of univariate posture reconstruction data. The dataset used is freely available on Kaggle. The project tries to convert the problem of classifying time series data into a standard classification problem.
 
 ---
 ## Outline
